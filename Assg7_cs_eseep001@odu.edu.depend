@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1667506283 source:c:\users\emily\documents\assg7_cs_eseep001@odu.edu\game.cpp
+	"Game.h"
+	<iostream>
+	<fstream>
+
+1667506082 source:c:\users\emily\documents\assg7_cs_eseep001@odu.edu\opening.cpp
+	"Opening.h"
+
+1667496384 c:\users\emily\documents\assg7_cs_eseep001@odu.edu\game.h
+	<iostream>
+	<string>
+
+1667488222 c:\users\emily\documents\assg7_cs_eseep001@odu.edu\opening.h
+	<iostream>
+	<string>
+
+1667560532 source:c:\users\emily\documents\assg7_cs_eseep001@odu.edu\main.cpp
+	<iostream>
+	<fstream>
+	"Opening.h"
+	"game.h"
+	<stdlib.h>
+	<iomanip>
+

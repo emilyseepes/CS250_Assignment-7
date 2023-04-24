@@ -1,0 +1,8 @@
+B
+28
+e4 e5 f4 exf4 Nf3 d6 d4 g5
+a3 g4 Nfd2 Qh4+ Ke2 Nc6 g3 Nxd4+
+Kd3 fxg3 Kxd4 gxh2 Nc3 Qg3 Qe2 Bg7+
+Kc4 Bxc3 b4 Be6+
+
+

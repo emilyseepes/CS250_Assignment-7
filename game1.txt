@@ -1,0 +1,9 @@
+B
+35
+e4 e5 Bc4 Nc6 Nf3 Bc5 c3 Nf6
+h3 Nxe4 d4 d5 Bb3 exd4 Nbd2 Nxf2
+e2+ Qe7 Qxe7+ Nxe7 Kxf2 dxc3+ Kf1 Nf5
+bxc3 Ng3+ Ke1 Nxh1 Bxd5 O-O g4 Nf2
+Rb1 c6 Bc4
+
+
